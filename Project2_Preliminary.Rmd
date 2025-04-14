@@ -41,3 +41,10 @@ library(tidyverse)
 
 
 ```
+
+
+
+
+## Submission to Gradescope
+
+**Make sure to add your group members to the Gradescope submission!**

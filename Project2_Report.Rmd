@@ -116,3 +116,11 @@ Suppose you had the ability to improve the fit of the model by collecting data o
 Reflect on the process of conducting this project. What was challenging, what have you learned from the process itself? Was there anything that was unexpected that you found during this analysis? If so, what was your expectation and how did the experience deviate from your expectation?
 
 **Write your answer here.**
+
+
+
+
+
+## Submission to Gradescope
+
+**Make sure to add your group members to the Gradescope submission!**
