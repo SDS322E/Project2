@@ -370,7 +370,15 @@ be predicted. Explain why it is useful to answer this question.</p>
 you will need using the <code>library()</code> function. For example,
 you will need to load the <code>tidyverse</code> and
 <code>tidymodels</code> packages.</p>
-<pre class="r"><code>## Add your code for reading in the data here</code></pre>
+<pre class="r"><code>## Add your code for reading in the data here
+
+## If the dataset is too large for your computer to handle, you can draw a
+## smaller random sub-sample of the data using the `sample_n()` function. For
+## example 
+##
+## dat_sub &lt;- sample_n(dat, 50000) 
+## 
+## draws a random sample of 50,000 rows from the `dat` object.</code></pre>
 </div>
 <div id="base-prediction-model" class="section level2">
 <h2>Base Prediction Model</h2>
